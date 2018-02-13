@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+
+facebook:
+ app_id: 121
+ publisher: 122
+ admins: 123
